@@ -1,0 +1,52 @@
+[Message:   BepInEx] BepInEx 5.4.23.2 - YoungHero (1/17/2019 2:35:48 PM)
+[Info   :   BepInEx] Running under Unity v4.6.9.4458911
+[Info   :   BepInEx] CLR runtime version: 3.0.40818.0
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Warning:  HarmonyX] AccessTools.Property: Could not find property for type UnityEngine.Application and name isBatchMode
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Z_XiakePre_Pllugin 1.0.0]
+[Info   :Z_XiakePre_Pllugin] Plugin Z_XiakePre_Pllugin is loaded!
+[Info   :Z_XiakePre_Pllugin] harmony.PatchAll!
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] strGameStart : CHS/cFormStart -----------------------------------------------------
+[Error  : Unity Log] GameMain no have movie
+[Info   : Unity Log]  _SaveTitleHeluo.Wulin.SaveTitleDataNode[] 讀取擋頭 
+[Info   : Unity Log]  _SaveTitleHeluo.Wulin.SaveTitleDataNode[] 讀取擋頭 
+[Info   : Unity Log] _Title 讀取完成
+[Info   : Unity Log] PlayBGMusicMapPath Y000077
+[Info   : Unity Log] Pop : Heluo.Wulin.UI.UIMovie
+[Info   : Unity Log] Mod active
+[Info   : Unity Log] TextDataManager_ExtractTextFile_Patch: DLC_MissionLevel.txt
+[Info   : Unity Log] TextDataManager_ExtractTextFile_Patch: DLC_LevelUpPassive.txt
+[Info   : Unity Log] TextDataManager_ExtractTextFile_Patch: DLC_CharacterData.txt
+[Info   : Unity Log] TextDataManager_ExtractTextFile_Patch: DLC_NpcData.txt
+[Warning: Unity Log] 包檔讀取失敗 !! ( DLC_RoutineExp ) 不存在
+[Info   : Unity Log]  _SaveTitleHeluo.Wulin.SaveTitleDataNode[] 讀取擋頭 
+[Info   : Unity Log]  _SaveTitleHeluo.Wulin.SaveTitleDataNode[] 讀取擋頭 
+[Info   : Unity Log] DLC_Title 讀取完成
+[Info   : Unity Log] Check Load Data F:/Program Files (x86)/FB_apps/2083/app_data/Config/SaveData/DLC_Save1.Save
+[Error  : Unity Log] 解析表：TypeWeightData
+[Error  : Unity Log] 解析表：LevelUpPassiveNodeExtension
+[Error  : Unity Log] OnAfterLoad data.nodeDatas.Count:1
+[Error  : Unity Log] OnAfterLoad m_Nodes.Count:1
+[Info   : Unity Log] Pop : Heluo.Wulin.UI.UISaveAndLoad
+[Info   : Unity Log] Pop : Heluo.Wulin.UI.UIStart
+[Info   : Unity Log] F:/Program Files (x86)/FB_apps/2083/app_data/Scenes/Loading.s
+[Info   : Unity Log] QualitySettings.GetQualityLevel = 5
+[Info   : Unity Log] PlayBGMusicMapPath Y000004
+[Info   : Unity Log] Pop : Heluo.Wulin.UI.UIDLCCharacter
+[Error  : Unity Log] NullReferenceException
+Stack trace:
+UnityEngine.Component.get_transform ()
+Heluo.Wulin.UILayer.Hide ()
+Heluo.Wulin.UI.UIReadyCombat.Hide ()
+Heluo.Wulin.UI.UIReadyCombat.OnDestroy ()
+
