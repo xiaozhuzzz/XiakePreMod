@@ -1,0 +1,1021 @@
+{
+  "strMapID": "M0000_02_01",
+  "vPos": {
+    "x": 137.749832,
+    "y": 45.4766541,
+    "z": 124.580437
+  },
+  "vEulerAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "vGMPos": {
+    "x": -0.87,
+    "y": 0,
+    "z": 0.21
+  },
+  "vGMEulerAngle": {
+    "x": 0,
+    "y": 338.044128,
+    "z": 0
+  },
+  "vCameraPos": null,
+  "vCameraEulerAngle": {
+    "x": 44.62214,
+    "y": 219.911514,
+    "z": -9.801041E-05
+  },
+  "TileArray": [
+    {
+      "strName": "Tile0",
+      "vPos": {
+        "x": -9.767296,
+        "y": 0.05001068,
+        "z": -7.175007
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile1",
+      "vPos": {
+        "x": -9.767295,
+        "y": 0.05001068,
+        "z": -5.12500334
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile2",
+      "vPos": {
+        "x": -9.767297,
+        "y": 0.05001068,
+        "z": -3.075007
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile3",
+      "vPos": {
+        "x": -9.767296,
+        "y": 0.05001068,
+        "z": -1.02500355
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile4",
+      "vPos": {
+        "x": -9.767295,
+        "y": 0.05001068,
+        "z": 1.02499986
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile5",
+      "vPos": {
+        "x": -9.767295,
+        "y": 0.05001068,
+        "z": 3.07500339
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile6",
+      "vPos": {
+        "x": -9.7673,
+        "y": 0.05001068,
+        "z": 5.12499237
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile7",
+      "vPos": {
+        "x": -9.767299,
+        "y": 0.05001068,
+        "z": 7.174996
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile8",
+      "vPos": {
+        "x": -7.991413,
+        "y": 0.05001068,
+        "z": -6.149999
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile9",
+      "vPos": {
+        "x": -7.991415,
+        "y": 0.05001068,
+        "z": -4.10000324
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile10",
+      "vPos": {
+        "x": -7.991411,
+        "y": 0.05001068,
+        "z": -2.04999256
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile11",
+      "vPos": {
+        "x": -7.991416,
+        "y": 0.05001068,
+        "z": -3.261333E-06
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile12",
+      "vPos": {
+        "x": -7.991415,
+        "y": 0.05001068,
+        "z": 2.05000019
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile13",
+      "vPos": {
+        "x": -7.99140739,
+        "y": 0.05001068,
+        "z": 4.100001
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile14",
+      "vPos": {
+        "x": -7.99140644,
+        "y": 0.05001068,
+        "z": 6.150004
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile15",
+      "vPos": {
+        "x": -6.215565,
+        "y": 0.0500068665,
+        "z": -7.17499828
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile16",
+      "vPos": {
+        "x": -6.21556425,
+        "y": 0.0500068665,
+        "z": -5.12499475
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile17",
+      "vPos": {
+        "x": -6.215569,
+        "y": 0.0500068665,
+        "z": -3.07500553
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile18",
+      "vPos": {
+        "x": -6.215568,
+        "y": 0.0500068665,
+        "z": -1.02500212
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile19",
+      "vPos": {
+        "x": -6.215567,
+        "y": 0.0500068665,
+        "z": 1.02500129
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile20",
+      "vPos": {
+        "x": -6.215566,
+        "y": 0.0500068665,
+        "z": 3.07500482
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile21",
+      "vPos": {
+        "x": -6.215557,
+        "y": 0.0500068665,
+        "z": 5.124988
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile22",
+      "vPos": {
+        "x": -6.215556,
+        "y": 0.0500068665,
+        "z": 7.17499161
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile23",
+      "vPos": {
+        "x": -4.439685,
+        "y": 0.0500068665,
+        "z": -6.149998
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile24",
+      "vPos": {
+        "x": -4.439687,
+        "y": 0.0500068665,
+        "z": -4.100002
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile25",
+      "vPos": {
+        "x": -4.439683,
+        "y": 0.0500068665,
+        "z": -2.04999113
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile26",
+      "vPos": {
+        "x": -4.439688,
+        "y": 0.0500068665,
+        "z": -1.85724832E-06
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile27",
+      "vPos": {
+        "x": -4.43969,
+        "y": 0.0500068665,
+        "z": 2.04999447
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile28",
+      "vPos": {
+        "x": -4.439689,
+        "y": 0.0500068665,
+        "z": 4.099998
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile29",
+      "vPos": {
+        "x": -4.439688,
+        "y": 0.0500068665,
+        "z": 6.15000153
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile30",
+      "vPos": {
+        "x": -2.66380548,
+        "y": 0.05000305,
+        "z": -7.175001
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile31",
+      "vPos": {
+        "x": -2.66380477,
+        "y": 0.05000305,
+        "z": -5.12499762
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile32",
+      "vPos": {
+        "x": -2.66380668,
+        "y": 0.05000305,
+        "z": -3.07500148
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile33",
+      "vPos": {
+        "x": -2.663806,
+        "y": 0.05000305,
+        "z": -1.024998
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile34",
+      "vPos": {
+        "x": -2.663805,
+        "y": 0.05000305,
+        "z": 1.02500546
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile35",
+      "vPos": {
+        "x": -2.663804,
+        "y": 0.05000305,
+        "z": 3.07500887
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile36",
+      "vPos": {
+        "x": -2.66379762,
+        "y": 0.05000305,
+        "z": 5.124985
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile37",
+      "vPos": {
+        "x": -2.663811,
+        "y": 0.05000305,
+        "z": 7.17499447
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile38",
+      "vPos": {
+        "x": -0.8879255,
+        "y": 0.05000305,
+        "z": -6.150001
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile39",
+      "vPos": {
+        "x": -0.8879275,
+        "y": 0.05000305,
+        "z": -4.10000467
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile40",
+      "vPos": {
+        "x": -0.8879237,
+        "y": 0.05000305,
+        "z": -2.049994
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile41",
+      "vPos": {
+        "x": -0.887928545,
+        "y": 0.05000305,
+        "z": -4.776687E-06
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile42",
+      "vPos": {
+        "x": -0.8879277,
+        "y": 0.05000305,
+        "z": 2.04999852
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile43",
+      "vPos": {
+        "x": -0.8879298,
+        "y": 0.05000305,
+        "z": 4.099995
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile44",
+      "vPos": {
+        "x": -0.8879289,
+        "y": 0.05000305,
+        "z": 6.149998
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile45",
+      "vPos": {
+        "x": 0.887922466,
+        "y": 0.0499992371,
+        "z": -7.17499971
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile46",
+      "vPos": {
+        "x": 0.8879233,
+        "y": 0.0499992371,
+        "z": -5.124996
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile47",
+      "vPos": {
+        "x": 0.887921453,
+        "y": 0.0499992371,
+        "z": -3.075
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile48",
+      "vPos": {
+        "x": 0.8879195,
+        "y": 0.0499992371,
+        "z": -1.02500367
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile49",
+      "vPos": {
+        "x": 0.8879204,
+        "y": 0.0499992371,
+        "z": 1.02499974
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile50",
+      "vPos": {
+        "x": 0.8879212,
+        "y": 0.0499992371,
+        "z": 3.07500315
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile51",
+      "vPos": {
+        "x": 0.887919247,
+        "y": 0.0499992371,
+        "z": 5.12499952
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile52",
+      "vPos": {
+        "x": 0.887920141,
+        "y": 0.0499992371,
+        "z": 7.175003
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile53",
+      "vPos": {
+        "x": 2.66380262,
+        "y": 0.0499992371,
+        "z": -6.14999962
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile54",
+      "vPos": {
+        "x": 2.66380048,
+        "y": 0.0499992371,
+        "z": -4.10000324
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile55",
+      "vPos": {
+        "x": 2.66380429,
+        "y": 0.0499992371,
+        "z": -2.04999256
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile56",
+      "vPos": {
+        "x": 2.66379952,
+        "y": 0.0499992371,
+        "z": -3.328031E-06
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile57",
+      "vPos": {
+        "x": 2.66380048,
+        "y": 0.0499992371,
+        "z": 2.05
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile58",
+      "vPos": {
+        "x": 2.66380143,
+        "y": 0.0499992371,
+        "z": 4.10000324
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile59",
+      "vPos": {
+        "x": 2.66380215,
+        "y": 0.0499992371,
+        "z": 6.150007
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile60",
+      "vPos": {
+        "x": 4.43968153,
+        "y": 0.0499954224,
+        "z": -7.17500257
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile61",
+      "vPos": {
+        "x": 4.43968248,
+        "y": 0.0499954224,
+        "z": -5.124999
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile62",
+      "vPos": {
+        "x": 4.43968058,
+        "y": 0.0499954224,
+        "z": -3.075003
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile63",
+      "vPos": {
+        "x": 4.43968153,
+        "y": 0.0499954224,
+        "z": -1.02499938
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile64",
+      "vPos": {
+        "x": 4.43968248,
+        "y": 0.0499954224,
+        "z": 1.02500391
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile65",
+      "vPos": {
+        "x": 4.43968344,
+        "y": 0.0499954224,
+        "z": 3.07500744
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile66",
+      "vPos": {
+        "x": 4.43967867,
+        "y": 0.0499954224,
+        "z": 5.12499666
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile67",
+      "vPos": {
+        "x": 4.43967962,
+        "y": 0.0499954224,
+        "z": 7.175
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile68",
+      "vPos": {
+        "x": 6.215562,
+        "y": 0.0499954224,
+        "z": -6.15000248
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile69",
+      "vPos": {
+        "x": 6.21556,
+        "y": 0.0499954224,
+        "z": -4.100006
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile70",
+      "vPos": {
+        "x": 6.215564,
+        "y": 0.0499954224,
+        "z": -2.04999542
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile71",
+      "vPos": {
+        "x": 6.21555853,
+        "y": 0.0499954224,
+        "z": -6.31346165E-06
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile72",
+      "vPos": {
+        "x": 6.21555948,
+        "y": 0.0499954224,
+        "z": 2.049997
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile73",
+      "vPos": {
+        "x": 6.21556044,
+        "y": 0.0499954224,
+        "z": 4.10000038
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile74",
+      "vPos": {
+        "x": 6.21556139,
+        "y": 0.0499954224,
+        "z": 6.150004
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile75",
+      "vPos": {
+        "x": 7.99141,
+        "y": 0.0499916077,
+        "z": -7.175001
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile76",
+      "vPos": {
+        "x": 7.99141073,
+        "y": 0.0499916077,
+        "z": -5.12499762
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile77",
+      "vPos": {
+        "x": 7.991409,
+        "y": 0.0499916077,
+        "z": -3.07500148
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile78",
+      "vPos": {
+        "x": 7.99141,
+        "y": 0.0499916077,
+        "z": -1.02499807
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile79",
+      "vPos": {
+        "x": 7.991408,
+        "y": 0.0499916077,
+        "z": 1.02499831
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile80",
+      "vPos": {
+        "x": 7.99140835,
+        "y": 0.0499916077,
+        "z": 3.07500172
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile81",
+      "vPos": {
+        "x": 7.99140358,
+        "y": 0.0499916077,
+        "z": 5.124991
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 0
+    },
+    {
+      "strName": "Tile82",
+      "vPos": {
+        "x": 7.99140453,
+        "y": 0.0499916077,
+        "z": 7.17499447
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile83",
+      "vPos": {
+        "x": 9.76729,
+        "y": 0.0499916077,
+        "z": -6.150001
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile84",
+      "vPos": {
+        "x": 9.767288,
+        "y": 0.0499916077,
+        "z": -4.10000467
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile85",
+      "vPos": {
+        "x": 9.767292,
+        "y": 0.0499916077,
+        "z": -2.04999423
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile86",
+      "vPos": {
+        "x": 9.767284,
+        "y": 0.0499916077,
+        "z": -1.19854285E-05
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile87",
+      "vPos": {
+        "x": 9.767285,
+        "y": 0.0499916077,
+        "z": 2.04999137
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile88",
+      "vPos": {
+        "x": 9.767285,
+        "y": 0.0499916077,
+        "z": 4.09999466
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    },
+    {
+      "strName": "Tile89",
+      "vPos": {
+        "x": 9.767286,
+        "y": 0.0499916077,
+        "z": 6.149998
+      },
+      "bWalkable": true,
+      "bInvisible": true,
+      "iPlacementID": 1
+    }
+  ]
+}
