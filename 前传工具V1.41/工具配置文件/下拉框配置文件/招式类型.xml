@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfDicConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <DicConfig>
+        <Key>1</Key>
+        <Value>剑法</Value>
+    </DicConfig>
+    <DicConfig>
+        <Key>2</Key>
+        <Value>刀法</Value>
+    </DicConfig>
+    <DicConfig>
+        <Key>3</Key>
+        <Value>箭器</Value>
+    </DicConfig>
+    <DicConfig>
+        <Key>4</Key>
+        <Value>拳掌</Value>
+    </DicConfig>
+    <DicConfig>
+        <Key>5</Key>
+        <Value>气功</Value>
+    </DicConfig>
+    <DicConfig>
+        <Key>6</Key>
+        <Value>软索</Value>
+    </DicConfig>
+    <DicConfig>
+        <Key>7</Key>
+        <Value>钢鞭</Value>
+    </DicConfig>
+    <DicConfig>
+        <Key>8</Key>
+        <Value>枪棍</Value>
+    </DicConfig>
+    <DicConfig>
+        <Key>9</Key>
+        <Value>琴功</Value>
+    </DicConfig>
+</ArrayOfDicConfig>
