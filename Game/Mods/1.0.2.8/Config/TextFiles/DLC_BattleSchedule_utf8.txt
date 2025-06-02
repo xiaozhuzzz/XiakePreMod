@@ -1,0 +1,2 @@
+#群組編號	執行順序	起始	下一個	同時	觸發點設定	觸發點資料設定	判斷條件類型	判斷條件	條件參數1	條件參數2	被觸發機率(%)	觸發事件	觸發事件參數1	觸發事件參數2	觸發事件參數3	互斥群組	可重覆執行
+#iArea	iClipID	bStart	iNextClipID	iLinkID	TriggerType	TriggerData	RequireType	RequireEqual	iRequireValue1	iRequireValue2	iTriggerPercent	TriggerEvent	iTriggerEventArg1	iTriggerEventArg2	iTriggerEventArg3	iGroup	irepeat
