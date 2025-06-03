@@ -1,3 +1,4 @@
+900002	醉酒拨臂连环踢	不传之秘	拳掌+1	UI_fi_02_33	4	1	2	(24,1)	0	0	0	2	0	0	1	9	10	0	500053,987046	100026001
 #招式编号	套路名称	套路说明	成长说明	套路的图标	武器类别	四围加成	修练难度曲线	武学常识成长	心法羁绊,效果	是否需要选择目标	技能作用种类	目标种类	目标区	距离	范围	威力	消耗内力	回气时间	附加状态编号	特效编号
 #iRoutineID	sRoutineName	sRoutineTip	sUpgradeNotes	sIcon	iWearAmsType	iAddition	LevelUpStyle	LevelUpAdd	ForceContact	NeedToSelectTarget	SkillType	TargetType	TargetArea	Range	AOE	Damage	UseAp	CD	condition	SkillEffectID
 100001	一刀起程	逍遥谷二弟子荆棘自行悟出的独门绝技，招式凌厉，只攻不守，以刀补剑，以剑补刀，同时却又刀中藏剑，剑中藏刀，攻敌不备，对手万难预料。	剑法+1、刀法+1	UI_fi_02_07	2	0	2	(21,1)*(22,1)	0	1	0	2	1	2	0	8	8	0	0	210002001
