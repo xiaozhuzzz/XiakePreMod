@@ -1,0 +1,2 @@
+F:\Program Files (x86)\FB_apps\2083\app_data\BepInEx\plugins|E:\mod\XiakePreMod\Game\BepInEx\plugins
+F:\Program Files (x86)\FB_apps\2083\app_data\Mods|E:\mod\XiakePreMod\Game\Mods
