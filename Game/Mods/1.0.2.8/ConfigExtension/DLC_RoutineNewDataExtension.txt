@@ -1,4 +1,4 @@
-#1.联动ID = 招式ID*100 + x（0-99）
+﻿#1.联动ID = 招式ID*100 + x（0-99）
 #2.联动条件逻辑，0-与逻辑，即条件列表需全部满足，1-或逻辑，即条件列表只需要一个满足即可
 #3.条件列表 Type：条件类型，0-内功-运行中，1-内功-学会 Value1 ： 内功ID，Value2 ： 内功等级 Operator ： 条件运算符 0-大于等于，1-等于，2-小于等于，3-不等于
 #4.联动后的名字，不改变填none
@@ -20,3 +20,8 @@
 
 
 87090200	0	{"data":[{"Type":10,"Value1":"0","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	2	0	4	0	0	500012	none	none	none
+14006201	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	-1	-1	0	none	none	none	none
+14006301	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	-1	-1	0	none	none	none	none
+14005901	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	0	0	0	none	none	none	none
+14006001	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
+14006101	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
