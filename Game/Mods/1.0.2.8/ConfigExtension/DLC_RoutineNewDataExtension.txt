@@ -19,9 +19,8 @@
 #19.移除的技能特效表现ID列表，用逗号隔开，不移除填none
 
 
-87090200	0	{"data":[{"Type":10,"Value1":"0","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	2	0	4	0	0	500012	none	none	none
-14006201	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	-1	-1	0	none	none	none	none
-14006301	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	-1	-1	0	none	none	none	none
-14005901	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	0	0	0	none	none	none	none
-14006001	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
-14006101	1	{"data":[{"Type":10,"Value1":"70059","Value2":"0","Operator":"0"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
+14006201	1	{"data":[{"Type":11,"Value1":"8700002","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-1	-1	0	none	none	none	none
+14006301	1	{"data":[{"Type":11,"Value1":"8700002","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-1	-1	0	none	none	none	none
+14005901	1	{"data":[{"Type":11,"Value1":"8700002","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	0	0	0	none	none	none	none
+14006001	1	{"data":[{"Type":11,"Value1":"8700002","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
+14006101	1	{"data":[{"Type":11,"Value1":"8700002","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
