@@ -129,10 +129,6 @@
 		<Value>免疫点穴</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>1009</Key>
-		<Value>随机招式二次攻击</Value>
-	</DicConfig>
-	<DicConfig>
 		<Key>50</Key>
 		<Value>最大气血</Value>
 	</DicConfig>
@@ -141,28 +137,20 @@
 		<Value>最大内力</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>10041</Key>
-		<Value>受到同武器攻击</Value>
+		<Key>1003</Key>
+		<Value>避实就虚</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>10011</Key>
-		<Value>攻击后触发</Value>
+		<Key>1006</Key>
+		<Value>模拟内功效果</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>5000</Key>
-		<Value>堆叠buff层数</Value>
+		<Key>1007</Key>
+		<Value>受击前触发</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>10042</Key>
-		<Value>buff添加后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10019</Key>
-		<Value>反击后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10015</Key>
-		<Value>受击后触发</Value>
+		<Key>1009</Key>
+		<Value>随机招式二次攻击</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>1010</Key>
@@ -181,148 +169,16 @@
 		<Value>移除buff</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>10024</Key>
-		<Value>被闪避后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10023</Key>
-		<Value>被闪避前触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10043</Key>
-		<Value>回合未移动</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>5001</Key>
-		<Value>移动格数</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>1003</Key>
-		<Value>避实就虚</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10044</Key>
-		<Value>范围内触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10045</Key>
-		<Value>暴击后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10016</Key>
-		<Value>暴击前触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10048</Key>
-		<Value>反击前触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10046</Key>
-		<Value>非反击前触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10007</Key>
-		<Value>受击前触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10049</Key>
-		<Value>闪避后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10003</Key>
-		<Value>攻击前触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10050</Key>
-		<Value>使用招式前触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10051</Key>
-		<Value>使用招式后触发</Value>
-	</DicConfig>
-	<DicConfig>
 		<Key>1014</Key>
 		<Value>治疗效果</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>20000</Key>
-		<Value>添加buff到最低血量单位身上</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>30000</Key>
-		<Value>比较气血和内力百分比</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10053</Key>
-		<Value>治疗后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10060</Key>
-		<Value>随机选择目标触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10059</Key>
-		<Value>使用治疗招式后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10032</Key>
-		<Value>加入战斗后触发</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>1015</Key>
 		<Value>隐匿</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>10061</Key>
-		<Value>不同范围不同效果-覆盖</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10062</Key>
-		<Value>不同范围不同效果-叠加</Value>
-	</DicConfig>
-	<DicConfig>
 		<Key>1016</Key>
 		<Value>招式范围</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10063</Key>
-		<Value>击杀后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>20001</Key>
-		<Value>刷新招式范围</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10064</Key>
-		<Value>条件触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10065</Key>
-		<Value>条件</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10021</Key>
-		<Value>被反击后触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10066</Key>
-		<Value>hp降低时触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>5002</Key>
-		<Value>buff次数-受击减少型</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10034</Key>
-		<Value>回合开始时触发</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>20002</Key>
-		<Value>开始统计内力减少</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>1006</Key>
-		<Value>模拟内功效果</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>1017</Key>
@@ -337,16 +193,148 @@
 		<Value>变身</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>10068</Key>
-		<Value>buff移除时触发</Value>
+		<Key>5000</Key>
+		<Value>堆叠buff层数</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>5001</Key>
+		<Value>移动格数</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>5002</Key>
+		<Value>buff次数-受击减少型</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10003</Key>
+		<Value>攻击前触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10007</Key>
+		<Value>受击前触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10011</Key>
+		<Value>攻击后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10015</Key>
+		<Value>受击后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10016</Key>
+		<Value>暴击前触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10019</Key>
+		<Value>反击后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10021</Key>
+		<Value>被反击后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10023</Key>
+		<Value>被闪避前触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10024</Key>
+		<Value>被闪避后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10032</Key>
+		<Value>加入战斗后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10034</Key>
+		<Value>回合开始时触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10038</Key>
+		<Value>保护时触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10041</Key>
+		<Value>受到同武器攻击</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10042</Key>
+		<Value>buff添加后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10043</Key>
+		<Value>回合未移动</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10044</Key>
+		<Value>范围内触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10045</Key>
+		<Value>暴击后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10046</Key>
+		<Value>非反击前触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10048</Key>
+		<Value>反击前触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10049</Key>
+		<Value>闪避后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10050</Key>
+		<Value>使用招式前触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10051</Key>
+		<Value>使用招式后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10053</Key>
+		<Value>治疗后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10059</Key>
+		<Value>使用治疗招式后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10060</Key>
+		<Value>随机选择目标触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10061</Key>
+		<Value>不同范围不同效果-覆盖</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10062</Key>
+		<Value>不同范围不同效果-叠加</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10063</Key>
+		<Value>击杀后触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10064</Key>
+		<Value>条件触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10065</Key>
+		<Value>条件</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10066</Key>
+		<Value>hp降低时触发</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>10067</Key>
 		<Value>buff添加时触发</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>10038</Key>
-		<Value>保护时触发</Value>
+		<Key>10068</Key>
+		<Value>buff移除时触发</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>10069</Key>
@@ -355,5 +343,53 @@
 	<DicConfig>
 		<Key>10070</Key>
 		<Value>退场时触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>20000</Key>
+		<Value>添加buff到最低血量单位身上</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>20001</Key>
+		<Value>刷新招式范围</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>20002</Key>
+		<Value>开始统计内力减少</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>30000</Key>
+		<Value>比较气血和内力百分比</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>1000</Key>
+		<Value>守株待兔</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>2000</Key>
+		<Value>守株待兔次数</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>1004</Key>
+		<Value>黄雀在后</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>2004</Key>
+		<Value>黄雀在后次数</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>1001</Key>
+		<Value>后发先至</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>10071</Key>
+		<Value>卸劲时触发</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>20003</Key>
+		<Value>内功初始添加buff</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>20004</Key>
+		<Value>清除畜存的总攻击伤害</Value>
 	</DicConfig>
 </ArrayOfDicConfig>

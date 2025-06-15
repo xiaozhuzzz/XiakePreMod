@@ -17,6 +17,10 @@
 		<Value>友军</Value>
 	</DicConfig>
 	<DicConfig>
+		<Key>6</Key>
+		<Value>靠近</Value>
+	</DicConfig>
+	<DicConfig>
 		<Key>7</Key>
 		<Value>触发</Value>
 	</DicConfig>
@@ -29,8 +33,8 @@
 		<Value>低于某值触发</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>6</Key>
-		<Value>靠近</Value>
+		<Key>11</Key>
+		<Value>损失气血百分比</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>13</Key>
@@ -41,8 +45,16 @@
 		<Value>内力上限</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>107</Key>
-		<Value>闪避率比较</Value>
+		<Key>15</Key>
+		<Value>周围友方数</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>16</Key>
+		<Value>周围敌人数</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>20</Key>
+		<Value>距离</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>21</Key>
@@ -51,10 +63,6 @@
 	<DicConfig>
 		<Key>23</Key>
 		<Value>敌方堆叠buff的效果值</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>11</Key>
-		<Value>损失气血百分比</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>24</Key>
@@ -73,20 +81,28 @@
 		<Value>敌方内力上限</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>31</Key>
-		<Value>损失内力值</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>34</Key>
-		<Value>累计消耗内力值</Value>
-	</DicConfig>
-	<DicConfig>
 		<Key>29</Key>
 		<Value>来源损失内力值</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>16</Key>
-		<Value>周围敌人数</Value>
+		<Key>30</Key>
+		<Value>损失气血</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>31</Key>
+		<Value>损失内力值</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>32</Key>
+		<Value>自身气血</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>33</Key>
+		<Value>自身内力</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>34</Key>
+		<Value>累计消耗内力值</Value>
 	</DicConfig>
 	<DicConfig>
 		<Key>35</Key>
@@ -109,18 +125,6 @@
 		<Value>目标Debuff数量</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>20</Key>
-		<Value>距离</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>10000</Key>
-		<Value>组合计算</Value>
-	</DicConfig>
-	<DicConfig>
-		<Key>30</Key>
-		<Value>损失气血</Value>
-	</DicConfig>
-	<DicConfig>
 		<Key>40</Key>
 		<Value>上次伤害值</Value>
 	</DicConfig>
@@ -141,19 +145,55 @@
 		<Value>反击目标本次攻击伤害</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>15</Key>
-		<Value>周围友方数</Value>
-	</DicConfig>
-	<DicConfig>
 		<Key>56</Key>
 		<Value>当前减少内力值总和</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>32</Key>
-		<Value>自身气血</Value>
+		<Key>107</Key>
+		<Value>闪避率比较</Value>
 	</DicConfig>
 	<DicConfig>
-		<Key>33</Key>
-		<Value>自身内力</Value>
+		<Key>10000</Key>
+		<Value>组合计算</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>57</Key>
+		<Value>破剑</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>58</Key>
+		<Value>破刀</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>59</Key>
+		<Value>破箭</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>60</Key>
+		<Value>破拳</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>61</Key>
+		<Value>破气</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>62</Key>
+		<Value>破索</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>63</Key>
+		<Value>破鞭</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>64</Key>
+		<Value>破枪</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>65</Key>
+		<Value>卸劲的伤害</Value>
+	</DicConfig>
+	<DicConfig>
+		<Key>66</Key>
+		<Value>蓄存受到攻击的伤害</Value>
 	</DicConfig>
 </ArrayOfDicConfig>
