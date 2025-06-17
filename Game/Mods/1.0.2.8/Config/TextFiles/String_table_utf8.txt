@@ -1229,3 +1229,4 @@
 990319	universal word strings	十九层
 990320	universal word strings	二十层
 600001	mod	琴功
+600002	mod	无法习得该招式
