@@ -1,3 +1,4 @@
+90021	龙虎般若功		气血+100，内力+200 <br>满重增益：反击+5%	(1,100)*(3,200)	(52,5)	5	NeigongImage33	987202	(10,0,90021,1)	987203	(10,0,90021,7)	0	(10,0,90021,10)	987024
 90020	疾风功		气血+100，内力+200 <br>满重增益：暴击+5%	(1,100)*(3,200)	(53,5)	5	NeigongImage33	987200	(10,0,90020,1)	987201	(10,0,90020,7)	0	(10,0,90020,10)	987024
 #功体编号	功体名称	功体叙述	提升叙述	每次重数提升能力	最高重数提升能力	经验曲线	图片icon	效果	开启条件	效果	开启条件	效果	开启条件	效果
 #ID	Name	Desc	sUpgradeNotes	LevelUP	MaxUP	iExp	sIcon1	ConditionEffectID1	sConditions	ConditionEffectID2	sConditions	ConditionEffectID3	sConditions	ConditionEffectID3
