@@ -17,12 +17,12 @@ set UNITY_EXE="F:\Unity\Unity2020.3.33f1\Unity2020.3.33f1\Editor\Unity.exe"
 set PROJECT_PATH=D:\Github\TaleOfXiaMod
 
 :: ==============================
-:: 配置输入目录（原始文本）
+:: 需要导出的目录
 :: ==============================
-set INPUT_DIR=E:\mod\XiakePreMod\Game\Mods\1.0.2.8
+set INPUT_DIR=E:\mod\XiakePreMod\Game
 
 :: ==============================
-:: 时间戳生成（保留原有本地方式）
+:: 时间戳生成
 :: ==============================
 for /f "tokens=1-4 delims=/ " %%a in ('date /t') do (
     set DATE=%%a-%%b-%%c
@@ -35,8 +35,8 @@ set TIME=!TIME::=-!
 :: ==============================
 :: 输出目录 & 日志文件
 :: ==============================
-set OUTPUT_DIR=E:\mod\XiakePreMod\Game\Mods\1.0.2.8\Config\Output_!DATE!_!TIME!
-set LOG_FILE=%PROJECT_PATH%\encrypt_log_!DATE!_!TIME!.txt
+set OUTPUT_DIR=E:\mod\XiakePreMod\Release
+set LOG_FILE=%PROJECT_PATH%\build_log_!DATE!_!TIME!.txt
 
 :: ==============================
 :: 确保输出目录存在
@@ -47,7 +47,7 @@ if not exist "%OUTPUT_DIR%" mkdir "%OUTPUT_DIR%"
 :: 显示信息
 :: ==============================
 echo ===========================================
-echo 🔐 开始加密游戏配置文件
+echo 🔐 开始生成发布Mod
 echo -------------------------------------------
 echo 🏗️ 工程路径: %PROJECT_PATH%
 echo 📂 输入目录: %INPUT_DIR%
@@ -63,7 +63,7 @@ echo.
  -batchmode ^
  -quit ^
  -projectPath "%PROJECT_PATH%" ^
- -executeMethod GameConfigEncryptor.EncryptFromCommandLine ^
+ -executeMethod EncryptorTool.EncryptFromCommandLine ^
  input="%INPUT_DIR%" ^
  output="%OUTPUT_DIR%" ^
  -logFile "%LOG_FILE%"
@@ -72,14 +72,14 @@ echo.
 :: 错误检查
 :: ==============================
 if %errorlevel% neq 0 (
-    echo ❌ 加密过程中发生错误，请检查日志: %LOG_FILE%
+    echo ❌ 导出过程中发生错误，请检查日志: %LOG_FILE%
     pause
     exit /b %errorlevel%
 )
 
 echo.
 echo ===========================================
-echo ✅ 加密完成！
+echo ✅ 导出完成！
 echo 📦 输出文件夹: %OUTPUT_DIR%
 echo 📜 日志文件: %LOG_FILE%
 echo ===========================================
