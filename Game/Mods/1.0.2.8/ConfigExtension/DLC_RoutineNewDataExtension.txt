@@ -180,3 +180,8 @@
 87105804	1	{"data":[{"Type":11,"Value1":"8700007","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-10 	5 	0	none	none	none	none
 87105904	1	{"data":[{"Type":11,"Value1":"8700007","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-10 	5 	0	none	none	none	none
 87106004	1	{"data":[{"Type":11,"Value1":"8700007","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-12 	0 	0	none	none	none	none
+12008004	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-10	0	0	none	none	none	none
+12008104	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
+11001504	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
+10014304	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-2	-2	0	none	none	none	none
+10005504	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	-5	-5	0	none	none	none	none
