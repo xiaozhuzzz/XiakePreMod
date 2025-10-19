@@ -177,3 +177,4 @@
 11003304	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	0	0	0	none	987035	none	none
 87060204	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	0	0	0	none	500018	none	none
 12003404	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	0	0	0	none	500018	none	none
+14012904	1	{"data":[{"Type":11,"Value1":"8700014","Value2":"0","Operator":"2"}]}	none	none	-1	-1	-1	-1	-1	0	0	0	0	0	none	500006,500009	none	none
