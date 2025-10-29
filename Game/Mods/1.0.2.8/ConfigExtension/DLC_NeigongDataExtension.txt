@@ -4,5 +4,8 @@
 #4.内功名字，不改变填none
 #5.内功描述，不改变填none
 #6.添加的buff列表
-#.删除的buff列表
-8702300	0	{"data":[{"Type":10,"Value1":"0","Value2":"0","Operator":"0"}]}	none	none	100070	none
+#7.删除的buff列表
+6001600	0	{"data":[{"Type":0,"Value1":"60016","Value2":"10","Operator":"0"},{"Type":9,"Value1":"0","Value2":"0","Operator":"0"}]}	none	none	987001	100013
+6002100	0	{"data":[{"Type":0,"Value1":"60021","Value2":"10","Operator":"0"},{"Type":9,"Value1":"0","Value2":"0","Operator":"0"}]}	none	none	987001	100013
+7003900	0	{"data":[{"Type":0,"Value1":"70039","Value2":"1","Operator":"0"},{"Type":9,"Value1":"0","Value2":"0","Operator":"0"}]}	none	none	987001	100013
+7005000	0	{"data":[{"Type":0,"Value1":"70050","Value2":"1","Operator":"0"},{"Type":9,"Value1":"0","Value2":"0","Operator":"0"}]}	none	none	987001	100013
